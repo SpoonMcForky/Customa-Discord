@@ -1,0 +1,8 @@
+{
+    "name": "Nord",
+    "version": "2.0.0",
+    "author": "SpoonMcForky/Customa",
+    "license": "MIT",
+    "theme": "Nord.theme.css",
+    "description": "Nord Theme"
+}
